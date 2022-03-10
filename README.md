@@ -1,6 +1,8 @@
 # socketwaste
 waste time/socket for incoming connections
 
+Based on ideas/code from <https://nullprogram.com/blog/2019/03/22>
+
 ``` 
 ./socketwaste.py -t http 80
 ```
